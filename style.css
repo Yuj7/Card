@@ -173,7 +173,7 @@ body {
 }
 
 .message {
-  font-size: 2.5em; /* Adjust size as needed */
+  font-size: 2em; /* Adjust size as needed */
   font-family: 'Great Vibes', cursive; /* This is the font you linked in your HTML */
   color: #ff0000; /* Change color as needed */
   /*text-shadow: 2px 2px #000000; /* Optional: adds a shadow to your text */
